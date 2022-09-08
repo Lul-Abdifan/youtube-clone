@@ -1,2 +1,2 @@
 # youtube-clone
-Youtube clone for Microverse for Microverse mninBootcamp
+Youtube clone for  Microverse miniBootcamp
